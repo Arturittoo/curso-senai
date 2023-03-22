@@ -20,14 +20,17 @@ escreval (" nota quarto bimestre ")
 leia(nota4)
  media <- (nota1 + nota2 + nota3 + nota4) / 4
 
-escreval(" media = ", media)
+escreval(" média = ", media)
 limpatela
 
 escreval(" seu nome = ", nome)
 escreval(" sua idade = ", idade)
+
+escreval("")
+
 escreval(" nota primeiro bimestre = ", nota1)
 escreval(" nota segundo bimestre = ", nota2)
 escreval(" nota terceiro bimestre = ", nota3)
 escreval(" nota quarto bimestre = ", nota4)
-escreval(" m�dia final = ", media)
+escreval(" média final = ", media)
  fimalgoritmo
